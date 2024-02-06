@@ -1,0 +1,483 @@
+PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date:  Western Australia Police Force 2022  Page 1 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  
+  
+    
+   SERIOUS AND ORGANISED CRIME DIVISION  
+FINANCIAL INTELLIGENCE REPORT  TRANSNATIONAL SERIOUS AND ORGANISED CRIME SQUAD  OFFICIAL 
+. 
+ 
+ 
+ 
+ 
+ 
+ SUBJECT  
+Operation BEECH ALPHA [22LK] Cryptocurrency Transactions  
+ 
+Operation BEECH [22LK] was commenced to investigate the importation of 2400 kilograms 
+of cocaine into Western Australia (WA). 1200kg of which were delivered onshore and stored 
+until negotiations regarding its sale were concluded, referred to as Operation BEECH 
+ALPHA. Between 31 December 2022 and 5 January 2023, approximately 200,000 AUD/ 
+136,585 USDT was received from broker ‘~Nueve’, utilising the Tron blockchain as payment 
+for the substituted cocaine. Blockchain tracing analysis identified the funds moved through 
+several wallets, it is likely WALLET 4 - TY8fRP6aCcWnJ7qjarHuz3iWFKY4CmW6yS,  
+financed the purchase. Review of transactions between intermediary wallets contained links 
+to cryptocurrency exchange Binance.com. The ownership of the intermediary wallets and 
+WALLET 4 is currently unknown.    
+ 
+BACKGROUND 
+1. In November 2022, the Transnational Serious and Organised Crime Squad (TSOCS) 
+working in conjunction with the DEA, commenced Operation BEECH 22LK to 
+investigate/target a transnational criminal organisation (TCO) seeking to supply 2,400 
+kilograms of cocaine into Western Australia (WA) and Queensland (QLD). 
+2. At 0200hrs on 28 December 2022, TSOCS delivered 1,200 kilograms offshore to the pre-
+arranged ‘drop point’. On 31 December 2022, Op BEECH proceeded to the resolution 
+phase, with nine offenders being arrested and charged. 
+3. The remaining 1,200 kilograms are being utilised in an alternative covert strategy - 
+Operation BEECH ALPHA 22LK. 
+4. WAPF UPU has engaged in WhatsApp communications with an unknown entity utilising 
+the handle '~Nueve' regarding collecting the substituted cocaine. 
+5. Payment of the substituted cocaine has agreed to occur via cryptocurrency USDT-TRON 
+(TRC20), with WAPOL covert wallet address provided to '~Nueve'. 
+ 
+  DOCUMENT REFERENCE: IDM IR  20230091643 
+PREPARED BY: PD62111  
+DATE: 11/01/2023 PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date: 10 -JAN-2018  Western Aus tralia Police Force 2018  Page 2 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  22LK Op Beech Alpha FINANCIAL INTELLIGENCE REPORT OFFICIAL 
+INFORMATION 
+6. Blockchain tracing analysis identified the following wallets of interest involved in the 
+transactions. They will be referred to as WALLET 1, WALLET 2 etc throughout this report.  
+ 
+Table 1: Cryptocurrency Wallets of Interest 
+Wallet  Address  
+WALLET 1  WAPOL Covert Wallet  
+WALLET 2 TYkpkUtaijqUU6rQHtSByAXibvkCYUkS9B 
+WALLET 3 TEjUfAtWwjQKZPnx81xX2dorrTeoFRxqVA 
+WALLET 4 TY8fRP6aCcWnJ7qjarHuz3iWFKY4CmW6yS 
+Additional Wallet of Interest TMm99JrYHaG2UfHdvcTLrNz3bgik6JTTyC 
+ 
+Chart 1: Chainalysis Blockchain Tracing  
+ 
+FINANCIAL ASSESSMENT  
+ 
+WALLET 1  
+ 
+7. WALLET 1 is operated by WAPOL.  
+8. WALLET 1 received two transactions from WALLET 2 totalling 136,585 USDT / approx. 
+200,000 AUD. 
+9. No further deposits had been received in WALLET 1 as at 9.00am AWST 10/01/2023. 
+ 
+Table 2: WALLET 1 Transactions of Interest 
+Date / Time UTC Sending Party Receiving Party Amount USDT 
+05/01/2023 00:21 WALLET 2 WALLET 1 +68,370 
+31/12/2022 13:16 WALLET 2 WALLET 1 +68,215 
+  
+PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date: 10 -JAN-2018  Western Aus tralia Police Force 2018  Page 3 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  22LK Op Beech Alpha FINANCIAL INTELLIGENCE REPORT OFFICIAL 
+WALLET 2 - TYkpkUtaijqUU6rQHtSByAXibvkCYUkS9B 
+ 
+10. It is assumed that WALLET 2 is operated/under the control of the broker '~Nueve'.  
+11. As the wallet is not linked to an exchange, it is assumed to be a cold wallet.  
+12. WALLET 2 received two transactions from WALLET 3 totalling 140,000 USDT, in order to 
+finance the 136,585 USDT sent to WALLET 1. 
+13. The transfers in from WALLET 3, and out to WALLET 1 occurred immediately after each 
+other.  
+14. WALLET 2 had a balance of 3,415.03 USDT after the transfer to WALLET 1 on 5 January 
+2023. 
+ 
+Table 3: WALLET 2 Transactions of Interest 
+Date / Time UTC Sending Party Receiving Party Amount USDT 
+05/01/2023 00:21 WALLET 2 WALLET 1 -68,370 
+04/01/2023 22:25 WALLET 3 WALLET 2 +70,000 
+31/12/2022 13:16 WALLET 2 WALLET 1 -68,215 
+31/12/2022 0:23  WALLET 3 WALLET 2 +70,000 
+ 
+15. Between 29 November 2022 and 4 January 2023 (UTC), eleven deposits were made from 
+WALLET 3 to WALLET 2, totalling 1,375,000 USDT or 90% of WALLET 2’s total income. 
+Indicating a strong funding dependency between WALLET 2 and WALLET 3. 
+16. WALLET 2 shows a pattern of receiving and sending funds in distinctive clusters. 
+ 
+Chart 2: Chainalysis WALLET 2 Transaction Summary as at 10/01/2023  
+ 
+  
+PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date: 10 -JAN-2018  Western Aus tralia Police Force 2018  Page 4 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  22LK Op Beech Alpha FINANCIAL INTELLIGENCE REPORT OFFICIAL 
+17. WALLET 2 has historically has made significant payments to other parties, as follows: 
+ 
+Table 4: WALLET 2 Largest Outgoing Payments 
+Receiving Party # of 
+Transfers  Amount of 
+USDT  Date Range 
+TByZkW5zoPsBZyY6YJLfq7x1JHkQMrYh2Y 8 590,670 25/11/2022 – 09/12/2022 
+TVbhG5C3dpQrKdof1EyaCGHkFT9c6oqH4T 6 567,420 29/11/2022 – 09/12/2022 
+WALLET 1 2 136,585 31/12/2022 – 05/01/2023 
+TT1bvDxk3ozTZa6vmfWcqY9YuKFwS13qte 1 96,655 9/12/2022 
+TGR1ekz5ocEMdsbbzqiUVkWVcWiMtUuV6W 2 75,214 25/11/2022 – 30/11/2022 
+TB3Z1BtNtmNdAd1UjVmLMYt7YryELtymsM 9 46,100 25/11/2022 – 13/12/2022 
+TYGy5vnn5zooBK3QPxh61Ki2VyqKVkqCfr 2 13,286 25/11/2022 – 29/11/2022 
+TVEMZ6FWdWA5ncSDcENPgMhdYyvrDCTY6h (Binance) 2 3,075 05/01/2023 – 7/01/2023 
+Total 32 1,529,005  
+ 
+18. Between the 5 January 2023 and 7 January 2023, two withdrawals totalling 3,075 USDT 
+occurred through wallet TVEMZ6FWdWA5ncSDcENPgMhdYyvrDCTY6h which is held 
+with cryptocurrency exchange Binance.com. Know your customer (KYC) identification 
+linked to the Binance.com withdrawals are as follows: 
+a. Name: Fernando Olaya ACOSTA 
+b. Email: mokafishingATgmail.com 
+c. Mobile: +573116425952 
+d. Passport: Colombia 
+e. Registered with Binance 12 May 2021 
+f. Date of Birth (from Passport) 10 August 1969 (Age 53) 
+ 
+Item 1: Fernando Olaya ACOSTA KYC Information provided to Binance.com 
+ 
+ 
+19. It is possible that false identities may have been used when creating the Binance.com 
+wallet.   
+PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date: 10 -JAN-2018  Western Aus tralia Police Force 2018  Page 5 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  22LK Op Beech Alpha FINANCIAL INTELLIGENCE REPORT OFFICIAL 
+20. The access logs for Binance.com wallet TVEMZ6FWdWA5ncSDcENPgMhdYyvrDCTY6h, 
+align with activity in Colombia. However, it is possible a VPN could have been used.  
+ 
+Table 5: Binance.com IP Access Logs 
+User ID Operation Client Real IP Geolocation Timestamp 
+(UTC)  
+154037006 Withdrawal application ios 181.62.52.242 Santiago de Cali 
+Colombia  2023 -01-05 
+16:45:50  
+154037006 Send SMS verification code ios 181.62.52.242 Santiago de Cali 
+Colombia  2023-01-05 
+16:44:12  
+154037006 Withdrawal application ios 181.62.52.242 Santiago de Cali 
+Colombia  2023 -01-05 
+16:44:06  
+154037006 security check before withdraw ios 181.62.52.242 Santiago de Cali 
+Colombia  2023-01-05 
+16:44:05  
+154037006 提现⻛控校验 ios 181.62.52.242 Santiago de Cali 
+Colombia  2023-01-05 
+16:43:06  
+154037006 User login ios 181.62.52.242 Santiago de Cali 
+Colombia  2023 -01-05 
+16:35:00  
+154037006 User login ios 181.62.52.242 Santiago de Cali 
+Colombia  2023-01-05 
+16:34:32  
+154037006 User login ios 181.62.52.242 Santiago de Cali 
+Colombia  2023 -01-05 
+16:34:03  
+ 
+21. It is assumed the owner of WALLET 2 knows/ is directing/ is the same person making the 
+withdrawal through the exchange, identified as ‘Fernando Olaya ACOSTA’. It is possible 
+that a false identification could have been used to create the Binance.com profile.    
+22. The closing balance of WALLET 2 as at 12.00pm AWST 10/01/2023 was nil. 
+ 
+  PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date: 10 -JAN-2018  Western Aus tralia Police Force 2018  Page 6 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  22LK Op Beech Alpha FINANCIAL INTELLIGENCE REPORT OFFICIAL 
+WALLET 3 - TEjUfAtWwjQKZPnx81xX2dorrTeoFRxqVA  
+23. It is assumed that WALLET 3 is operated/under the control of the broker '~Nueve'.  
+24. As the wallet is not linked to an exchange, it is assumed to be a cold wallet.  
+25. WALLET 3 received one transaction from WALLET 4 totalling 269,705 USDT on 30 
+December 2022, which was used to finance the two 70,000 USDT transfers (140,000 
+USDT in total) sent to WALLET 2. 
+26. WALLET 3 had a closing balance of 376,585 USDT-TRX after the final deposit into 
+WALLET 2 was completed on 4 January 2023. 
+27. Of note a further 202,267 USDT was deposited on 7 January 2023. This could be 
+preparation for the transfer of funds post-delivery of substituted cocaine.  
+28. Between 30 July 2021 and 7 January 2021 (UTC), 62 deposits were made from WALLET 
+4 to WALLET 3, totalling 11,385,745 USDT or 41% of WALLET 3’s total income. 
+Indicating a funding dependency between WALLET 3 and WALLET 4. 
+ 
+Table 6: WALLET 3 Transactions of Interest 
+Date / Time UTC Sending Party Receiving Party Amount 
+USDT  
+07/01/2023 17:38 TYmZeB1yDKfmbb8EJdKFp3TC8qGafBbeUp  WALLET 3  +7,500  
+07/01/2023 16:39 WALLET 4  WALLET 3  +202,267  
+07/01/2023 0:11 TDcrLhbRAmaKU6KqzgxdNNHNroo7dxUMoh  WALLET 3  +0.0245  
+07/01/2023 0:09 TDcvatFCzmF4aNEU1vkZ4zSijkPKtZUMoh  WALLET 3  +0.0083  
+07/01/2023 0:04 WALLET 3  TDc3xFbNa72FFvxojepPKqg4CD3VexUMoh  -8,300 
+04/01/2023 22:32 TYkxenD2PxSZiBUbNzszYmY3PJfdpUkS9B  WALLET 3  +0.0211 
+04/01/2023 22:26 TYkKc43SarXHxhksAHzDsbDt7FzkFUkS9B  WALLET 3  +0.070001  
+04/01/2023 22:25 WALLET 3  WALLET 2  -70,000  
+02/01/2023 22:16 TYmZeB1yDKfmbb8EJdKFp3TC8qGafBbeUp WALLET 3 +7,500 
+31/12/2022 0:29 TYkxenD2PxSZiBUbNzszYmY3PJfdpUkS9B WALLET 3 +0.0215 
+31/12/2022 0:28 TYk61er1vc1QhoXhoEQfvLpJ7agbLnkS9B WALLET 3 +0.007 
+31/12/2022 0:23 WALLET 3 WALLET 2 -70,000 
+30/12/2022 0:09 WALLET 4 WALLET 3 +269,705 
+29. Historically the funds in WALLET 3 appear to accumulate and then are transferred out, 
+returning the balance back to nil. The balance was 32 USDT as at 1 December 2012. 
+ 
+Chart 3: Chainalysis WALLET 3 Transaction Summary as at 10/01/2023  
+ 
+PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date: 10 -JAN-2018  Western Aus tralia Police Force 2018  Page 7 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  22LK Op Beech Alpha FINANCIAL INTELLIGENCE REPORT OFFICIAL 
+30. WALLET 3 has historically has made significant payments to other parties, as follows: 
+ 
+Table 7: WALLET 3 Largest Outgoing Payments 
+Receiving Party # of 
+Transfers  Amount of 
+USDT  Date Range 
+TD4T7iuj3Wc1KMiy5Ydfqsmt4NKWMKhHLd 28 5,344,777 19/08/2022 – 16/12/2022 
+Binance.com Clustered Addresses 33 3,603,146 08/07/2021 – 05/12/2022 
+TM59zHQKHS6b2KmqegnYXhrisToR8gzYR7 22 3,034,081 01/04/2022 – 12/08/2022 
+TM4qaGnndsYSF8MtZ19gajkX5zYi9Mie2g 12 2,125,124 12/11/2021 – 13/12/2021 
+WALLET 4 8 1,541,689 30/07/2021 – 07/01/2023 
+TJ4JbSjmmn83dNAtt9PAcfrAipfM1RwXAQ 11 1,486,775 06/07/2022 – 01/10/2022 
+TYkpkUtaijqUU6rQHtSByAXibvkCYUkS9B 7 1,375,000 29/11/2022 – 04/01/2023 
+TAD49JjpAfswCug3wyktnYbH1h98aEoohG 5 1,267,435 19/01/2022 – 11/05/2022 
+Total 127 19,778,027  
+ 
+31. Between 8 July 2021 and 5 December 2022, there were 48 interactions between 
+WALLET 3 and cryptocurrency Binance.com: 
+a. 15 deposits from Binance.com exchange to WALLET 3, totalling 998,380 USDT. 
+b. 33 withdrawals from WALLET 3 to Binance.com exchange, totalling 3,603,146 
+USDT. 
+32. Know your customer identification linked to the Binance.com withdrawals are as follows. It 
+is possible that a false identification could have been used to create the below 
+Binance.com profiles.    
+Table 8: KYC Information provided to Binance.com for addresses interacting with 
+WALLET 3 
+Wallet Name Mobile Country ID Time frame  
+TNXoiAJ3dct8Fjg4M9fkLFh9S2v9TXc32G Nayerazam Nabavi +14167953205 Canada 5/12/2022 
+TLqsPqLsDsULrS1xtxLVKfkg6ktBjfb15c Bo Yang Xia +17787986199 Canada 2/12/2022 
+TQrY8tryqsYVCYS3MFbtffiPp2ccyn4STm Amer Jammal +14168338468 Canada 12/11/2022 – 
+29/11/2022  
+TNBuopgZGMFfB7kYB739PArvJysVawzTe6  Miguel Angel Vega 
+Heredia   N/A Mexico 1/06/2022 – 
+28/11/2022  
+TV6MuMXfmLbBqPZvBHdwFsDnQeVfnmiuSi Pavanjit Singh Sohal +16477085341 Canada 25/11/2022  
+TFk3cTvfVg7YP4DY78v7MHUBxHJKE2RvGp Daniel Mier Y Teran 
+Samano  +525523311465 Mexico 22/11/2021 
+TUU7xnAE7xx5HLYe2kTqxC9noqpVwL5y24  Juana Imelda Samano 
+Martinez  +525548257528 Mexico 13/07/2021 – 
+16/09/2021  
+TTnJPFtzfi1RKSN3aC7sjr62SeoLQzR98y  Adan Josue Marin 
+Gamboa  +573222192934 Venezuela 1/09/2021 
+TLy9VTsHeFivMXUuDPoqTKadF8wDo5eodL  No Name/KYC photos 
+provided  +526645875580 Unknown 31/08/2021 
+TLz3yZEeAjRqQHLsnkwK1ZcJbfURkrMJGW  Manuel Eduardo 
+Noguera Carvajal  +573017118113 Colombia 22/07/2021 – 
+29/07/2021  
+ 
+33. It is likely that the wallets identified with Binance.com are not related to the deposit of 
+269,705 USDT on 30 December 2022, due to difference in time periods.  
+  PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date: 10 -JAN-2018  Western Aus tralia Police Force 2018  Page 8 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  22LK Op Beech Alpha FINANCIAL INTELLIGENCE REPORT OFFICIAL 
+WALLET 4 - TY8fRP6aCcWnJ7qjarHuz3iWFKY4CmW6yS 
+ 
+34. It is assumed that WALLET 4 is operated/under the control of the broker '~Nueve'.  
+35. As the wallet is not linked to an exchange, it is assumed to be a cold wallet.  
+36. It appears that WALLET 4 is the origin of the source of funds into WALLET 1. 
+37. The balance in WALLET 4 prior to the 269,705 USDT deposit into WALLET 3, was 
+1,090,543 USDT.  
+38. It is possible that the payments to WALLET 3 were funded from the existing balance or 
+from deposits from TMm99JrYHaG2UfHdvcTLrNz3bgik6JTTyC.   
+ 
+Table 9: WALLET 4 Transactions of Interest 
+Date / Time UTC Sending Party Receiving Party Amount 
+USDT  
+30/12/2022 0:09  WALLET 4  WALLET 3 -269,705 
+29/12/2022 17:08  WALLET 4  TZJfYM5rdjm4mMWhEzwGfXW6pVW8e9s7FD -202,510 
+29/12/2022 16:52  WALLET 4  TZJfYM5rdjm4mMWhEzwGfXW6pVW8e9s7FD -50 
+28/12/2022 21:04  TMm99JrYHaG2UfHdvcTLrNz3bgik6JTTyC  WALLET 4 +213,971 
+28/12/2022 12:23  TMm99JrYHaG2UfHdvcTLrNz3bgik6JTTyC  WALLET 4  +84,384 
+27/12/20 22 19:14  TMm99JrYHaG2UfHdvcTLrNz3bgik6JTTyC  WALLET 4  +500,000 
+ 
+39. WALLET 4 holds a balance of 324,896 USDT-TRX as at 12.20pm WST 10/01/2023.  
+a. WALLET 4 is the most active (1,414 transactions) of all of the wallet’s identified.  
+b. A total of 78,773,113 USDT has been sent from WALLET 4 
+c. A total of 79,098,009 USDT has been received to WALLET 4 
+d. Historical activity indicates the accumulation of funds, before being transferred out.  
+ 
+Chart 4: Chainalysis WALLET 4 Transaction Summary as at 10/01/2023 
+ 
+  
+PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date: 10 -JAN-2018  Western Aus tralia Police Force 2018  Page 9 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  22LK Op Beech Alpha FINANCIAL INTELLIGENCE REPORT OFFICIAL 
+40. WALLET 4 has historically received significant payments from other parties, as follows: 
+ 
+Table 10: WALLET 4 Largest Incoming Payments 
+Counter Party # of 
+Transfers  USDT 
+Received  USDT 
+Sent  Date Range 
+TXABc4crYPxMX1FRYTUpEeGESYePiXZNXT 82 14,201,449 45,463 05/11/2021 – 24/08/2022 
+TMm99JrYHaG2UfHdvcTLrNz3bgik6JTTyC 33 9,880,359 - 25/08/2022 – 06/01/2023 
+TRdU9h2dkWBz9HPL7g4NSUKGPGHkr5qFnV 31 7,231,175 15,717 23/03/2022 – 13/08/2022 
+TQbegPAhmA7zfYXjLLgvzs9WYXtiKojhjL 40 6,700,382 - 07/09/2022 – 31/12/2022 
+TCexfzbSsE7oYjr7yCHSRMACsfBqFj9te2 30 4,497,900 2,561,614 02/08/2021 – 20/12/2021 
+TUnvj4yH1BqmoEanXaSHAj6drCFeAyzd5R 35 3,890,501 7,740,533 09/05/2022 – 14/11/2022 
+TR5Q2Z15AfXBSX4PY7d389sgbDM8JTTphU 47 3,461,814 - 31/10/2022 – 06/01/2023 
+TUZQ6HoDm3Mg29RjojHsTuFGo6QWGswugi 13 2,398,759 2,017,928 11/09/2021 – 21/12/2021 
+TFfUZEXRgxGCksuasEYSPLLHbSowARvHbi 39 2,170,818 916,582 09/05/2022 – 09/12/2022 
+Binance.com Clustered Addresses 48 1,988,655 5,123,369 14/08/2021 – 29/12/2022 
+Total 398 51,923,912 18,421,206  
+ 
+CONSIDERATIONS / ACTIONS 
+ Liaising with DEA for research into POI’s and IP addresses identified, to ascertain 
+identities linked to Wallet address. 
+ Obtain KYC information for transactions between WALLET 4 and Binance.com. 
+ 
+DISTRIBUTION LIST 
+ 
+Receiving Unit  Method  Com ment  Date Disseminated  
+ IDM  INSERT DATE 
+ 
+__________________________________________________________________________ 
+Estimative Likelihood  Admiralty Code  
+ Reliability of Source  Information Accuracy  
+Highly Unlikely  10%  A Completely Reliable  1 Confi rmed  
+Unlikely  30% B Usually Reliable  2 Probably True  
+Possible  50% C Fairly Reliable  3 Possibly True  
+Likely  70% D Not Usually Reliable  4 Doubtfully True  
+Highly Likely  90% E Unreliable  5 Improbable Report  
+  F Reliability Cannot Be Judged  6 Truth Ca nnot Be Judged  
+ 
+__________________________________________________________________________ 
+ 
+  PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date: 10 -JAN-2018  Western Aus tralia Police Force 2018  Page 10 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  22LK Op Beech Alpha FINANCIAL INTELLIGENCE REPORT OFFICIAL 
+APPENDIX – KEY TERMS AND DEFINITIONS 
+ 
+Term  Definition  
+Blockchain   A type of distributed ledger technology that organises digital data in 
+blocks, which are linked using cryptography. The database can be 
+managed centrally or collectively. When managed collectively, a 
+peer-to-peer network of computers (called ‘nodes’) must reach 
+consensus on the validity of a block. When consensus is reached, 
+the block is ‘chained’ to the previous one using a cryptographic 
+signature. Once a new block is added, all existing copies of the 
+database within the network are updated.   
+Blockchain analysis   The process of identifying, mapping and analysing data recorded on 
+blockchains, often by using specific software. Certain companies are 
+well known for their blockchain analysis, such as Chainalysis and 
+CipherTrace.   
+Chainalysis   A non-government, international software company which specialises 
+in comprehensive solutions to cryptocurrency investigation and 
+transaction monitoring.    
+Cold Wallet A digital cryptocurrency wallet stored on a platform not connected to 
+the internet. It is also referred to as Hardware wallet or cold storage.  
+Cryptocurrency   A non-fiat convertible virtual currency that is decentralised, protected 
+by cryptography (a method for securing communication using code) 
+and exchanged directly between two parties online. Cryptocurrencies 
+are made up of ‘coins’, which are pieces of computer code that 
+represent a monetary unit and require public and private cryptographic 
+keys to be traded.   
+Digital Currency 
+Exchange   A person or business entity allowing customers to exchange and 
+trade virtual currency for fiat, funds, or other forms of virtual currency 
+or precious metals fo r a fee (i.e. Independent Reserve).   
+Distributed Ledger 
+Technology   A digital system for recording and sharing data across multiple data 
+stores (or ledgers) that allows for transactions to be recorded, shared 
+and synchronised across a network of participants.  
+Fiat currency   A currency not linked directly to the value of a commodity but is 
+established as money by government regulation. It has an assigned 
+value determined by the issuing government (for example, the 
+Australian dollar).   
+Hot Wallet A digital cryptocurrency wallet stored usually stored on computer on 
+phones which is connected to the internet. Some exchanges will offer 
+a separate hot wallet in addition to keeping crypto on their exchange. 
+Keys – Public and 
+Private   Public Key  – A public key is a published number used to encrypt and 
+check signed messages or transactions. In relation to cryptocurrency, 
+the hash of a public key is known as the wallet address and is similar 
+to the use of a Bank-State-Branch (BSB) together with an account 
+number to identify a particular bank account.  
+  
+Private Key  – Related to the public key, private keys are secret and 
+used to decrypt and sign messages or transactions. A private key is 
+similar to a password which accesses a person’s bank account online 
+and can be made into a Quick Reference (QR) barcode for storage.  
+  
+TRON Is a blockchain based decentralised digital platform with its own 
+cryptocurrency. It was founded in 2017 by the Tron Foundation. Its PROTECTED 
+ 
+PROTECTED  
+VERSION: 1.0  Version Date: 10 -JAN-2018  Western Aus tralia Police Force 2018  Page 11 of 11 
+The contents of this documented are considered exempt matter for the purposes of the Freedom of Information Act 1992. 
+The document must not be provided in response to a request for information under the Act  
+  22LK Op Beech Alpha FINANCIAL INTELLIGENCE REPORT OFFICIAL 
+focus is servicing the entertainment industry. It differs from the 
+Bitcoin Blockchain, by utilising a proof of stake (rather than proof of 
+work) to validate transactions.  
+USDT USDT is also known as Tether. It is an asset-backed cryptocurrency 
+stablecoin pegged to the U.S. dollar, aimed to avoid volatility in 
+pricing compared to other cryptocurrencies. 
+Trading commenced in February 2015. It is the third largest 
+cryptocurrency behind bitcoin and Ethereum. USDT operates on 
+Bitcoin, Ethereum, TRON, EOS, Algorand, Solana, OMG Network 
+and Bitcoin Cash blockchains.  
+USDT is commonly purchased and sold on cryptocurrency 
+exchanges. 
+As at 9 January 2023: 1AUD = 0.69USDT; 1USD = 1USDT  
+USDT -ERC 20  USDT issued on the Ethereum network.  
+USDT -TRON (TRC 20)  USDT issued on the TRON network.  
+Wallet (paper, software, 
+hardware etc)   Virtual currency wallet:  A software application or other mechanism 
+for holding, storing and transferring virtual currency  
+Wallet provider:  An entity that provides a virtual currency wallet for 
+holding, storing and transferring virtual currency.  
+Software wallet:  A type of virtual currency wallet that can be used or 
+stored on a computer or smartphone allowing users to send/receive 
+virtual currencies.  
+Hardware wallet:  A type of virtual currency wallet that stores the 
+user’s private keys in an offline secure hardware device (the private 
+key will never leave the device).  
+Paper wallet : Similar to a hardware wallet in style but uses 
+downloaded wallet information printed on paper instead of a 
+mechanical device.  
+Privacy wallet:  A software wallet that is focused on privacy, such as 
+Wasabi Wallet and Samourai Wallet. These wallets can incorporate 
+coin mixing into their protocols and may offer offline functionality.   
+ 
+ 
